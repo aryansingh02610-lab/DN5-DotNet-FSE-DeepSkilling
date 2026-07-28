@@ -128,15 +128,14 @@ git clone https://github.com/aryansingh02610-lab/DN5-DotNet-FSE-DeepSkilling.git
 
 ## About Me
 
-**Deepsikha Patra**
+**Aryan kumar singh**
 
-B.Tech – Computer Science & Engineering (AI & ML)
+B.Tech – Electronics and communication
 
 C.V. Raman Global University
 
-- GitHub: https://github.com/Deepsikha2003
-- LinkedIn: https://www.linkedin.com/in/deepsikha-patra/
-- Portfolio: https://linktr.ee/deepsikhapatra2003
+- GitHub: https://github.com/aryansingh02610-lab
+- LinkedIn: www.linkedin.com/in/aryan-kumar-singh-41a982395
 
 ---
 
