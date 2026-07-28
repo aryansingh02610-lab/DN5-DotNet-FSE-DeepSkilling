@@ -121,7 +121,7 @@ DN5-DotNet-FSE-Deepskilling
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/Deepsikha2003/DN5-DotNet-FSE-Deepskilling.git
+git clone https://github.com/aryansingh02610-lab/DN5-DotNet-FSE-DeepSkilling.git
 ```
 
 ---
